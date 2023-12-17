@@ -1,3 +1,3 @@
-This is my local repo
+# This is my local repo
 <br>
-just checking out how git commands works
+# just checking out how git commands works
